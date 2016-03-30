@@ -1,0 +1,24 @@
+{
+  "name": "plugnative-ionicv2-authjwt",
+  "version": "1.0.0",
+  "description": "ionic v2 app with jwt auth features like user login and registor ect. As server using node server ",
+  "main": "app.js",
+  "scripts": {
+    "test": "plugnative"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PlugNative-Ionic/plugnative-ionicv2-authjwt.git"
+  },
+  "keywords": [
+    "PlugNative",
+    "Ionicv2",
+    "AuthJWT"
+  ],
+  "author": "DILEEP YADAV",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/PlugNative-Ionic/plugnative-ionicv2-authjwt/issues"
+  },
+  "homepage": "https://github.com/PlugNative-Ionic/plugnative-ionicv2-authjwt#readme"
+}
